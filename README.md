@@ -28,3 +28,26 @@ experienced programmer.
 
 ![O'Reilly Books and Videos](http://nealford.com/images/oreilly_books_videos.png)
 ### [Purchase or stream at O'Reilly's site](http://shop.oreilly.com/product/0636920030393.do)
+
+
+# Featured Samples
+
+* Number Classifier
+  * Java
+    * Imperative
+    * Slightly more functional
+  * Functional Java
+  * Totally Lazy
+  * Groovy
+  * Scala
+  * Clojure
+* Closures in Groovy
+* Memoization in Groovy
+* Lazy Lists in Groovy
+* Palindromes
+  * Groovy
+  * Clojure
+* Prime numbers
+* Parsing XML
+* `Either` and `Option`
+
