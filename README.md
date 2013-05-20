@@ -3,7 +3,7 @@ Neal Ford Functional Thinking Video Samples
 
 Samples featured in Neal Ford's O'Reilly video Functional Thinking.
 
-![Functional Thinking cover](http://http://nealford.com/images/ft_video_cover.png)
+![Functional Thinking cover](http://nealford.com/images/ft_video_cover.png)
 
 # Functional Thinking
 Learning the syntax of a new language is easy, but learning to think under a different paradigm is difficult. This video from renowned software architect Neal Ford helps you transition from a Java-writing imperative programmer to a functional programmer, using Java, Clojure and Scala as examples.
