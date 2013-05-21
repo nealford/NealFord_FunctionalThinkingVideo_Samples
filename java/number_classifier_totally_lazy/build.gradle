@@ -1,0 +1,14 @@
+apply plugin: 'java'
+
+repositories {
+  mavenCentral()
+  maven {
+    url "http://repo.bodar.com/"
+  }
+
+}
+
+dependencies {
+    testCompile 'junit:junit:4.+'
+    testCompile group: 'com.googlecode.totallylazy', name: 'totallylazy', version: '994+'
+}

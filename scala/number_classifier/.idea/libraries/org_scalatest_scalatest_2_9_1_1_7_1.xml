@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.scalatest:scalatest_2.9.1:1.7.1" type="repository">
+    <properties maven-id="org.scalatest:scalatest_2.9.1:1.7.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/scalatest_2.9.1-1.7.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
