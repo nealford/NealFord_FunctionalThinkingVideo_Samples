@@ -48,6 +48,6 @@ experienced programmer.
   * Groovy
   * Clojure
 * Prime numbers
-* Parsing XML
-* `Either` and `Option`
+* Parsing XML in Clojure using Zippers
+* `Either` and `Option` in Java
 
