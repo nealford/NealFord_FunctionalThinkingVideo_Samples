@@ -1,0 +1,7 @@
+c:\temp\NealFordFt\NealFordFt\bin\Debug\NealFordFt.exe.config
+D:\HOME\NealFord_FunctionalThinkingVideo_Samples\csharp\NealFordFt\bin\Debug\NealFordFt.exe.config
+D:\HOME\NealFord_FunctionalThinkingVideo_Samples\csharp\NealFordFt\obj\Debug\NealFordFt.csprojResolveAssemblyReference.cache
+D:\HOME\NealFord_FunctionalThinkingVideo_Samples\csharp\NealFordFt\bin\Debug\NealFordFt.exe
+D:\HOME\NealFord_FunctionalThinkingVideo_Samples\csharp\NealFordFt\bin\Debug\NealFordFt.pdb
+D:\HOME\NealFord_FunctionalThinkingVideo_Samples\csharp\NealFordFt\obj\Debug\NealFordFt.exe
+D:\HOME\NealFord_FunctionalThinkingVideo_Samples\csharp\NealFordFt\obj\Debug\NealFordFt.pdb
